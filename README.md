@@ -65,11 +65,3 @@
 </div>
 
 ###
-
-<h2 align="left">🐍 Snake Commits:</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/RicardoFrancoDelgado/RicardoFrancoDelgado/output/snake.svg" alt="Snake animation" />
-
-###
