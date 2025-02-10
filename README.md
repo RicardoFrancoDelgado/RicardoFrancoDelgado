@@ -1,20 +1,20 @@
-<h2 align="left">👋 Hi there</h2>
+<h2 align="left">👋 Olá</h2>
 
 ###
 
-<p align="left">I'm Ricardo. I've been learning programming for a year now, and I'm switching careers. I'm sharing my projects and studies here to help out the community.</p>
+<p align="left">Me chamo Ricardo, um entusiasta da tecnologia e desenvolvedor apaixonado por criar aplicações do zero. Estou sempre explorando novas tecnologias e aprimorando minhas habilidades para construir soluções inovadoras.</p>
 
 ###
 
-<h2 align="left">🚀 Expertise</h2>
+<h2 align="left">🚀 Experiência</h2>
 
 ###
 
-<p align="left">My focus is on fullstack development. I enjoy seeing and completing a fully functional application with all the necessary features. I'm also very curious about learning other technologies, which enhances my passion for fullstack.</p>
+<p align="left">Meu foco é o desenvolvimento fullstack. Gosto de ver uma aplicação ganhar vida, desde a lógica do backend até a interface intuitiva no frontend. Além disso, estou sempre em busca de aprender novas ferramentas e metodologias para melhorar meus projetos.</p>
 
 ###
 
-<h2 align="left">💻Tech Stack</h2>
+<h2 align="left">💻Stack Tecnológica</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">🌐 Socials:</h2>
+<h2 align="left">🌐 Redes Sociais:</h2>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats:</h2>
+<h2 align="left">📊 Estatísticas do GitHub:</h2>
 
 ###
 
