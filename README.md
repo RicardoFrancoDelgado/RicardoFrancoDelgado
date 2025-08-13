@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) em transição de carreira, buscando<br>oportunidade como estagiário em Backend. Possuo conhecimentos em Java, Spring Boot, MySQL e Golang.<br>Experiência prévia como professor de informática, com habilidades consolidadas em comunicação e oratória.<br>Comprometido em aplicar minhas competências técnicas e interpessoais para evoluir na área de<br>desenvolvimento de software.</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) em transição de carreira, buscando<br>oportunidade como estagiário em Backend. Possuo conhecimentos em Go, Java, Spring Boot e MySQL<br>Experiência prévia como professor de informática, com habilidades consolidadas em comunicação e oratória.<br>Comprometido em aplicar minhas competências técnicas e interpessoais para evoluir na área de<br>desenvolvimento de software.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Atualmente estou me graduando em Análise e Desenvolvimento de Sistemas.<br><br>💻 Estou focado nos estudos de Java, Spring Boot e SQL.<br><br>🚀 Sempre explorando novas tecnologias e boas práticas para o desenvolvimento de software.<br><br>🛠️ Apaixonado por criar soluções que gerem valor e resolvam problemas reais através da tecnologia.</p>
+<p align="left">🎓 Atualmente estou me graduando em Análise e Desenvolvimento de Sistemas.<br><br>💻 Estou focado nos estudos de Go e SQL.<br><br>🚀 Sempre explorando novas tecnologias e boas práticas para o desenvolvimento de software.<br><br>🛠️ Apaixonado por criar soluções que gerem valor e resolvam problemas reais através da tecnologia.</p>
 
 ###
 
