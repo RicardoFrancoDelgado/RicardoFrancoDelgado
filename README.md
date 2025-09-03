@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Atualmente estou me graduando em Análise e Desenvolvimento de Sistemas.<br><br>💻 Estou focado nos estudos de Go e SQL.<br><br>🚀 Sempre explorando novas tecnologias e boas práticas para o desenvolvimento de software.<br><br>🛠️ Apaixonado por criar soluções que gerem valor e resolvam problemas reais através da tecnologia.</p>
+<p align="left">🎓 Atualmente estou me graduando em Análise e Desenvolvimento de Sistemas.<br><br>💻 Estou focado nos estudos de Node, Go e SQL.<br><br>🚀 Sempre explorando novas tecnologias e boas práticas para o desenvolvimento de software.<br><br>🛠️ Apaixonado por criar soluções que gerem valor e resolvam problemas reais através da tecnologia.</p>
 
 ###
 
