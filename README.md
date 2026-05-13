@@ -10,11 +10,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RicardoFrancoDelgado&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/RicardoFrancoDelgado/RicardoFrancoDelgado/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/RicardoFrancoDelgado/RicardoFrancoDelgado/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+<picture>
+  <source srcset="https://raw.githubusercontent.com/RicardoFrancoDelgado/repository_name/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/username/repository_name/main/output/stats_commits.svg">
+</picture>
 
 ###
 
