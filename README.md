@@ -4,6 +4,14 @@
 
 <p align="left">Sou desenvolvedor backend especializado em Java e Spring, com forte atuação na construção de sistemas escaláveis, seguros e de alto desempenho. Vou além da implementação funcional: aplico padrões de projeto, arquitetura limpa (clean/hexagonal) e estruturas de dados eficientes para garantir código de fácil manutenção. Tenho domínio em segurança de APIs (OAuth2, JWT), otimização de performance com caching distribuído e monitoramento, além de mensageria para arquiteturas orientadas a eventos. Meu foco está em criar soluções que não apenas atendam aos requisitos atuais, mas que também estejam prontas para crescer com elegância, baixa latência e alta resiliência.</p>
 
+<h2 align="left">📊Github Status</h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RicardoFrancoDelgado&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
 ###
 
 <h2 align="left">🛠️Stacks</h2>
