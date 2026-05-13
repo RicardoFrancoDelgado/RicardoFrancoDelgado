@@ -61,7 +61,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RicardoFrancoDelgado/RicardoFrancoDelgado/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
