@@ -11,6 +11,7 @@
   <img src="https://streak-stats.demolab.com?user=RicardoFrancoDelgado&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/RicardoFrancoDelgado/RicardoFrancoDelgado/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/RicardoFrancoDelgado/RicardoFrancoDelgado/languages-output/languages.svg" height="150" alt="languages graph"  />
+
 </div>
 
 ###
