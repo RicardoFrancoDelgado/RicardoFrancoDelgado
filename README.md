@@ -6,17 +6,6 @@
 
 ###
 
-<h2 align="left">📊Github Status</h2>
-
-###
-
-<picture>
-  <source srcset="https://raw.githubusercontent.com/RicardoFrancoDelgado/repository_name/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/username/repository_name/main/output/stats_commits.svg">
-</picture>
-
-###
-
 <h2 align="left">🛠️Stacks</h2>
 
 ###
